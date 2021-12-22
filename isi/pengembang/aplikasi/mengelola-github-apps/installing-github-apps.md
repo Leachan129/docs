@@ -1,4 +1,4 @@
----
+---48installing-github:main
 title: Installing GitHub Apps
 intro: 'When your app is public, anyone can use {% ifversion fpt or ghec %} the {% data variables.product.prodname_marketplace %} or {% endif %}an installation URL to install the app on their repository. When your app is private, only you can install the app on repositories that you own.'
 redirect_from:
